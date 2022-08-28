@@ -1,12 +1,12 @@
-## Build Information;
-'''
+## Build Information
+```
 Kernel: ThunderStorm Kernel
-Device: RM6785 Devices(Realme 7/6/6i/N20Pro/N30)[Unified]
+Device: Realme Unified 7/6/6i/N20Pro/N30
 Type: Stable
-Compiler: Azure Clang 15 -> LTO
+Compiler: Azure Clang 15
 Build Number: TS2.1
-'''
-## Changelog;
+```
+## Changelog
 **TS2.1**
 * Upstreamed To 286
 * zsmalloc backports
