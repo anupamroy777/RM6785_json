@@ -7,6 +7,9 @@ Compiler: Azure Clang 15
 Build Number: TS2.1
 ```
 ## Changelog
+**TS2.1-hotfix**
+* Fix Ipv6 Tethering
+
 **TS2.1**
 * Upstreamed To 286
 * zsmalloc backports
