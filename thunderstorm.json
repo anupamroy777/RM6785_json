@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "ThunderStorm",
-    "version": "2.1",
-    "link": "https://github.com/anupamroy777/RM6785_json/releases/download/TS2.1-ipv6-fix/ThunderStorm-lto-KERNEL-RM6785-2022-08-07.zip",
+    "version": "2.2-slmk",
+    "link": "https://github.com/anupamroy777/RM6785_json/releases/download/TS.2.2/ThunderStorm-OSS-KERNEL-RM6785-20220913-0730.zip",
     "changelog_url": "https://raw.githubusercontent.com/anupamroy777/RM6785_json/main/changelog.md",
-    "date": "2022-08-06",
-    "sha1": "fc23b401efcfd6d6c534c8a7c43a86d8474f220e"
+    "date": "2022-09-13",
+    "sha1": "2dfb0e34d5eb205dbb48dfa42bac5d6d7121c4da"
   },
   "support": {
     "link": "https://t.me/anupamroy777"
