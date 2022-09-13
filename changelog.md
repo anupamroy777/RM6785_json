@@ -3,7 +3,7 @@
 Kernel: ThunderStorm Kernel
 Device: Realme Unified 7/6/6i/N20Pro/N30
 Type: Stable
-Compiler: Azure Clang 15
+Compiler: Neutron Clang 16
 Build Number: TS2.2
 ```
 ## Changelog
