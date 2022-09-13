@@ -4,9 +4,17 @@ Kernel: ThunderStorm Kernel
 Device: Realme Unified 7/6/6i/N20Pro/N30
 Type: Stable
 Compiler: Azure Clang 15
-Build Number: TS2.1
+Build Number: TS2.2
 ```
 ## Changelog
+**TS2.2**
+* Upstreamed to 292
+* Switched to simple low memory killer(slmk)
+* Silenced few logs
+* Switched to Neutron clang 16
+* Disable MTK sched enhancement
+* Affine GPU IRQs to big cluster CPUS
+
 **TS2.1-hotfix**
 * Fix Ipv6 Tethering
 
